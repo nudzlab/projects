@@ -26,6 +26,19 @@ First find a GitMan or became a GitMan. After that you should start with documen
 
 [Sample documentation](https://docs.google.com/document/d/1hseYEml031pYqQ7gdw7_B_OP-ZRcHpEByjH6XtAqmRE/edit?usp=sharing) -- require Google Account.
 
+## E-PRIME users
+
+- **PC** MRI
+- **PC** EEG laborator dell
+- **PC** spanek (daniela)
+- **PC** EEG studovna
+- **PC** Vlasta
+
+- **NTB** Katka Sedlakova (time-perception) 
+- **NTB** TOSHIBA (Tomas Palenicek)
+- **NTB** Lenovo (Psilocybin stimulace)
+- **NTB** daniela
+
 ## Useful links
 - [Projects priority](https://github.com/nudzlab/projects/projects/1)
 - [Wikipedia](https://github.com/nudzlab/projects/wiki)

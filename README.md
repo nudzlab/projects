@@ -32,9 +32,11 @@ First find a GitMan or became a GitMan. After that you should start with documen
 - **PC** EEG laborator dell
 - **PC** spanek (daniela)
 - **PC** EEG studovna
+- **PC** Zvířecí laboratoř (Čestmír)
 - **PC** Vlasta
 
-- **NTB** Katka Sedlakova (time-perception) 
+- **NTB** Katka Sedlakova osobni (time-perception) 
+- **NTB** Katka Sedlakova experimentální (time-perception)
 - **NTB** TOSHIBA (Tomas Palenicek)
 - **NTB** Lenovo (Psilocybin stimulace)
 - **NTB** daniela
